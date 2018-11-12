@@ -5,6 +5,8 @@ MacOS app files are bundled with the shell scripts to allow for a user friendly 
 
 This uses the offical pihole container on the offical site: https://hub.docker.com/r/pihole/pihole/
 
+The basics of this were found here: https://www.reddit.com/r/pihole/comments/9k6lzp/run_pihole_on_macos_mojave_with_docker/
+
 **This has only been tested on MacOS 10.14**
 
 ## Installation
