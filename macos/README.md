@@ -3,11 +3,15 @@ This collection of scripts is designed to provide pihole as a local container. T
 
 MacOS app files are bundled with the shell scripts to allow for a user friendly interface to running the provided scripts.
 
+This uses the offical pihole container on the offical site: https://hub.docker.com/r/pihole/pihole/
+
 **This has only been tested on MacOS 10.14**
 
 ## Installation
 
-1. git pull macos directory to `~/pihole`
+1. git pull this directory to `~/` creating `~/pihole`
+1. Unzip the zip files contained here to `~/pihole`
+1. Launch `Start PiHole.app`
 
 ## Scripts
 
